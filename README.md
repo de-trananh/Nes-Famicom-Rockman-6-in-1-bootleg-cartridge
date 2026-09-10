@@ -9,8 +9,9 @@ Easy way to DIY Nes/famicom Rockman 6in1 bootleg cart
 2) Follow guideline sheet for components soldering
    + TOP soldering
      <img width="1626" height="899" alt="image" src="https://github.com/user-attachments/assets/1fd6b371-318a-4b66-9a8f-256e56d67cbb" />
-   + Bottom soldering
-     <img width="1273" height="758" alt="image (1)" src="https://github.com/user-attachments/assets/16904828-672f-4f05-b079-809f20edb561" />
+   + BOTTOM soldering
+     <img width="1809" height="1049" alt="image" src="https://github.com/user-attachments/assets/cf067d6b-3636-4144-bdf0-fd1f4e257426" />
+
 # ROMs flashing
 
 ## TOOL
