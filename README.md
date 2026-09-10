@@ -36,6 +36,7 @@ Easy way to DIY Nes/famicom Rockman 6in1 bootleg cart
   <img width="754" height="360" alt="image" src="https://github.com/user-attachments/assets/7abfd4b3-aa11-480c-a894-5ddfa2703a1d" />
 
 # Enjoy result:
+ <img width="1894" height="1240" alt="image" src="https://github.com/user-attachments/assets/16024b1c-33f9-4de6-bcec-678f9d353f40" />
  <img width="612" height="631" alt="image" src="https://github.com/user-attachments/assets/d690b4c3-6b0c-480e-a347-5170be9e592a" />
  <img width="613" height="634" alt="image" src="https://github.com/user-attachments/assets/b82bc604-0ccd-4b2d-859a-f3b3c592fbce" />
  <img width="615" height="639" alt="image" src="https://github.com/user-attachments/assets/9132d6bc-2b76-429d-a8f9-96cdc0eaf572" />
