@@ -20,18 +20,18 @@ Easy way to DIY Nes/famicom Rockman 6in1 bootleg cart
     https://vi.aliexpress.com/w/wholesale-t48-programmer-xgecu.html?spm=a2g0o.detail.auto_suggest.2.5c08lv7vlv7vcY
 
 # ROM flashing for CHR (SST39SF040 DIP32)
-  Im using XGecuPro tool (T48 version) for rom flashing
-  File: **CHR_512KBytes_SST39SF040.BIN**
+  + Im using XGecuPro tool (T48 version) for rom flashing
+  + File: **CHR_512KBytes_SST39SF040.BIN**
   <img width="1177" height="892" alt="image" src="https://github.com/user-attachments/assets/e96375fa-75fb-46fa-a562-b71690886056" />
 
 # ROM flashing for PRG (AM29F016B TSOP48)
-  Im using XGecuPro tool (T48 version) + TSOP 48 to DIP Adapter
-  File: **PRG_2MBytes_AM29F016B.BIN**
+  + Im using XGecuPro tool (T48 version) + TSOP 48 to DIP Adapter
+  + File: **PRG_2MBytes_AM29F016B.BIN**
   <img width="1181" height="882" alt="image" src="https://github.com/user-attachments/assets/4bd95368-a581-44ad-b716-4e88365df72e" />
 
 # ALTERA CPLD flashing
-  Im using USB blaster via Jtag + Quatus II SW
-  File: **rockman_6in1.pof**
+  + Im using USB blaster via Jtag + Quatus II SW
+  + File: **rockman_6in1.pof**
   <img width="712" height="662" alt="image" src="https://github.com/user-attachments/assets/e0e89f05-e51d-4eb2-9ad0-4fb3d58dc2ff" />
   <img width="754" height="360" alt="image" src="https://github.com/user-attachments/assets/7abfd4b3-aa11-480c-a894-5ddfa2703a1d" />
 
