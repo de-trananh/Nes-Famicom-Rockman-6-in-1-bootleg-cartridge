@@ -4,7 +4,7 @@ Easy way to DIY Nes/famicom Rockman 6in1 bootleg cart
 # PCB Preparation:
 1) Take 3 PCBs to PCB factory (ex: JLCPCB/PCBway,...):
    + CART_RM6i1.zip (this is main cart)
-   + PRG_ADAPTOR.zip (this is TSOP48 NOR flash to 32pin Mask ROM adaptor
+   + PRG_ADAPTOR.zip (this is TSOP48 NOR flash to 32 pins Mask ROM adaptor)
    + VRAM_ADAPTOR.zip (this is SOP28 to DIP32 for CHR RAM)
 2) Follow guideline sheet for components soldering
    + TOP soldering
