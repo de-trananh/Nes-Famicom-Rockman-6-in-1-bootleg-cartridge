@@ -36,7 +36,8 @@ Demo: https://www.youtube.com/watch?v=D4vARG_xJss&feature=youtu.be
   + Im using USB blaster via Jtag + Quatus II SW
   + File: **rockman_6in1.pof**
   <img width="712" height="662" alt="image" src="https://github.com/user-attachments/assets/e0e89f05-e51d-4eb2-9ad0-4fb3d58dc2ff" />
-  <img width="754" height="360" alt="image" src="https://github.com/user-attachments/assets/7abfd4b3-aa11-480c-a894-5ddfa2703a1d" />
+  <img width="774" height="317" alt="image" src="https://github.com/user-attachments/assets/9dfbfc0f-be52-44d1-8e67-334ca6f63d0c" />
+
 
 # Enjoy result:
  <img width="1894" height="1240" alt="image" src="https://github.com/user-attachments/assets/16024b1c-33f9-4de6-bcec-678f9d353f40" />
